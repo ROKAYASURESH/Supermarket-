@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <div>
         <div className="container-fluid bg-secondary">
-            <div className="row">
+            <div className="row py-5">
                 {/* Part1 */}
                 <div className="col-lg-3 unlist under">
                     <h6>  CONNECT WITH US</h6>
@@ -63,7 +63,7 @@ export default function Footer() {
                     <h6>CONTACT DETAILS</h6>
                     <ol>
                        
-                        <li>AFq3RvPAbUApWTKMs6GESgHyhvtfLUe2Wr</li>
+                        <li>AFq3RvPAr</li>
                         <li>Wheeling, West Virginia,</li>
                         <li>26003</li>
                         <li>Contact:<a href=" tel:304-559-3023 "> &nbsp; 304-559-3023  </a></li>
